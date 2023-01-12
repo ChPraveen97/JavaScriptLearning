@@ -7,3 +7,4 @@ Build myStr over several lines by concatenating these two strings: 'This is the 
 let myStr;
 myStr = "This is the first sentence.";
 myStr += " This is the second sentence.";
+
